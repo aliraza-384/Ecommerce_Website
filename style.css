@@ -37,8 +37,9 @@ body {
 }
 
 .nav-logo h2 {
-    color: #e74c3c;
+    color: #bf3ce7;
     font-size: 1.8rem;
+    text-shadow: 2px 1px 2px black;
 }
 
 .nav-menu {
@@ -104,7 +105,7 @@ body {
 
 /* Banner Styles */
 .banner {
-    background: linear-gradient(135deg, #9baaec 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #002fff 0%, #cea6f7 100%);
     color: white;
     padding: 120px 0 80px;
     display: flex;
@@ -168,7 +169,8 @@ body {
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 3rem;
-    color: #333;
+    color: #bf3ce7;
+    text-shadow: 2px 1px 2px black;
 }
 
 .loading {
